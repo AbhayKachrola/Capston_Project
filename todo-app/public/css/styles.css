@@ -1,0 +1,6 @@
+body{
+    background-color: rgb(151, 105, 105);
+}
+.todo-item:hover .trash-icon{
+    display: block;
+}
